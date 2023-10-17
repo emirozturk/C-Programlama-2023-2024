@@ -1,0 +1,500 @@
+2023.10.17 08:07:43  36.6228   36.3927       10.8      -.-  1.9  -.-   TASOLUK-KIRIKHAN (HATAY)                          İlksel
+2023.10.17 07:55:30  35.6322   26.4913       19.4      -.-  2.1  -.-   AKDENIZ                                           İlksel
+2023.10.17 07:26:04  37.9397   36.1940       10.2      -.-  1.3  -.-   KALEBOYNU-GOKSUN (KAHRAMANMARAS)                  İlksel
+2023.10.17 07:07:44  38.8297   37.4767       11.9      -.-  1.5  -.-   BAGLICAY-GURUN (SIVAS)                            İlksel
+2023.10.17 06:41:19  36.6877   36.1257       19.7      -.-  1.7  -.-   SARISEKI-ISKENDERUN (HATAY)                       İlksel
+2023.10.17 05:34:35  37.8692   36.4498       26.3      -.-  0.8  -.-   BUYUKCAMURLU-GOKSUN (KAHRAMANMARAS)               İlksel
+2023.10.17 05:17:07  38.4113   37.4398        6.7      -.-  2.0  -.-   YALINTAS-ELBISTAN (KAHRAMANMARAS)                 İlksel
+2023.10.17 04:53:26  37.8675   27.1443        7.2      -.-  1.2  -.-   KUSADASI KORFEZI (EGE DENIZI)                     İlksel
+2023.10.17 04:53:25  38.3008   37.3442        2.1      -.-  2.1  -.-   GUNDERE-ELBISTAN (KAHRAMANMARAS)                  İlksel
+2023.10.17 04:47:19  38.4803   38.8050        9.8      -.-  2.0  -.-   TOPALUSAGI-BASKIL (ELAZIG)                        İlksel
+2023.10.17 04:45:01  37.1067   28.5820       17.4      -.-  1.0  -.-   ARICILAR-ULA (MUGLA)                              İlksel
+2023.10.17 04:13:03  37.9328   36.2478        1.6      -.-  1.8  -.-   KALEBOYNU-GOKSUN (KAHRAMANMARAS)                  İlksel
+2023.10.17 03:55:07  38.1850   38.1040        5.4      -.-  1.0  -.-   OLUKLU-YESILYURT (MALATYA)                        İlksel
+2023.10.17 03:39:15  37.9743   36.3212       16.6      -.-  1.3  -.-   KAZANDERE-GOKSUN (KAHRAMANMARAS)                  İlksel
+2023.10.17 03:31:17  34.3507   23.5908       10.5      -.-  3.5  3.7   GIRIT ADASI (AKDENIZ)                             İlksel
+2023.10.17 03:26:40  38.1713   36.9853        5.0      -.-  1.7  -.-   ALTAS-AFSIN (KAHRAMANMARAS)                       İlksel
+2023.10.17 03:21:40  37.8240   36.3255        9.0      -.-  1.8  -.-   CIGSAR-ANDIRIN (KAHRAMANMARAS)                    İlksel
+2023.10.17 03:11:18  34.4458   25.2155       15.5      -.-  2.6  -.-   GIRIT ADASI ACIKLARI (AKDENIZ)                    İlksel
+2023.10.17 03:09:42  37.8772   36.4647       21.3      -.-  1.0  -.-   DEGIRMENDERE-GOKSUN (KAHRAMANMARAS)               İlksel
+2023.10.17 03:01:18  36.3577   28.2298       28.2      -.-  1.3  -.-   RODOS ADASI (AKDENIZ)                             İlksel
+2023.10.17 02:51:14  38.9023   33.0023        5.0      -.-  2.3  -.-   TAVSANCALI-KULU (KONYA)                           İlksel
+2023.10.17 02:44:28  38.1533   36.5018       12.8      -.-  0.9  -.-   BOZHUYUK-GOKSUN (KAHRAMANMARAS)                   İlksel
+2023.10.17 02:33:44  37.9120   36.4482       11.3      -.-  2.4  -.-   DEGIRMENDERE-GOKSUN (KAHRAMANMARAS)               İlksel
+2023.10.17 02:29:36  39.3598   26.2238       13.0      -.-  1.7  -.-   MIDILLI ADASI (EGE DENIZI)                        İlksel
+2023.10.17 02:19:54  37.6938   35.8280        9.0      -.-  1.5  -.-   KOCYAZI-FEKE (ADANA)                              İlksel
+2023.10.17 01:46:45  37.8567   36.3862        2.7      -.-  1.7  -.-   KUCUKCAMURLU-GOKSUN (KAHRAMANMARAS)               İlksel
+2023.10.17 01:41:35  37.6812   35.3480        7.2      -.-  1.7  -.-   YETIMLI-ALADAG (ADANA)                            İlksel
+2023.10.17 01:03:11  36.4520   36.3327        8.6      -.-  2.1  -.-   OZSOGUKSU-KIRIKHAN (HATAY)                        İlksel
+2023.10.17 00:59:16  35.9932   29.3727       11.4      -.-  1.3  -.-   KALKAN ACIKLARI-ANTALYA (AKDENIZ)                 İlksel
+2023.10.17 00:55:17  38.8997   33.0062        5.0      -.-  2.7  -.-   TAVSANCALI-KULU (KONYA)                           İlksel
+2023.10.17 00:54:14  38.3292   27.2060        5.6      -.-  2.4  -.-   ZAFER-BUCA (IZMIR)                                İlksel
+2023.10.17 00:44:10  37.8170   36.3065        9.0      -.-  1.8  -.-   CIGSAR-ANDIRIN (KAHRAMANMARAS)                    İlksel
+2023.10.17 00:26:46  38.3825   36.4812        3.6      -.-  1.8  -.-   ORDEKLI-SARIZ (KAYSERI)                           İlksel
+2023.10.17 00:03:50  38.1557   36.9002        6.0      -.-  1.8  -.-   ESENCE-AFSIN (KAHRAMANMARAS)                      İlksel
+2023.10.16 23:45:10  38.3332   27.1863        9.8      -.-  2.1  -.-   ZAFER-BUCA (IZMIR)                                İlksel
+2023.10.16 23:34:49  36.2827   36.1697        7.6      -.-  1.2  -.-   DIKMECE-(HATAY)                                   İlksel
+2023.10.16 23:12:55  36.7637   33.8207        9.0      -.-  2.0  -.-   KAVAKKOY-SILIFKE (MERSIN)                         İlksel
+2023.10.16 23:10:17  38.4660   37.2428        2.1      -.-  1.4  -.-   SARIYATAK-ELBISTAN (KAHRAMANMARAS)                İlksel
+2023.10.16 23:07:57  35.7353   25.4107       14.0      -.-  2.8  -.-   GIRIT ADASI (AKDENIZ)                             İlksel
+2023.10.16 22:41:53  37.8520   36.3535        5.0      -.-  2.4  -.-   KUCUKCAMURLU-GOKSUN (KAHRAMANMARAS)               İlksel
+2023.10.16 22:39:01  37.0607   36.1693        5.3      -.-  1.4  -.-   TOPRAKKALE (OSMANIYE)                             İlksel
+2023.10.16 22:30:59  38.2318   38.0293        5.0      -.-  3.4  3.4   CUMHURIYET-YESILYURT (MALATYA)                    İlksel
+2023.10.16 22:27:25  37.4857   37.0463        5.0      -.-  2.6  -.-   CIGLI-(KAHRAMANMARAS)                             İlksel
+2023.10.16 21:38:24  37.8903   36.3608       11.9      -.-  1.5  -.-   KUCUKCAMURLU-GOKSUN (KAHRAMANMARAS)               İlksel
+2023.10.16 20:55:02  37.8450   36.3508        5.2      -.-  1.6  -.-   KUCUKCAMURLU-GOKSUN (KAHRAMANMARAS)               İlksel
+2023.10.16 20:49:30  37.4898   37.1193        5.4      -.-  1.4  -.-   KARTAL-(KAHRAMANMARAS)                            İlksel
+2023.10.16 20:47:38  37.4915   37.1025        5.3      -.-  2.7  -.-   CIGLI-(KAHRAMANMARAS)                             İlksel
+2023.10.16 20:08:18  38.3205   27.1910        8.6      -.-  1.6  -.-   ZAFER-BUCA (IZMIR)                                İlksel
+2023.10.16 19:24:28  37.8547   29.0223        0.0      -.-  1.7  -.-   KUMKISIK-(DENIZLI)                                İlksel
+2023.10.16 19:19:35  42.0997   34.2940        7.8      -.-  2.7  -.-   CATALZEYTIN ACIKLARI-KASTAMONU (KARADENIZ)        İlksel
+2023.10.16 19:12:38  36.7407   36.3242       22.5      -.-  1.4  -.-   SINCAN-DORTYOL (HATAY)                            İlksel
+2023.10.16 19:09:38  37.7387   35.6237        8.7      -.-  1.6  -.-   KAPIKAYA-KOZAN (ADANA)                            İlksel
+2023.10.16 19:01:57  36.7165   33.8120       15.2      -.-  1.5  -.-   KAVAKKOY-SILIFKE (MERSIN)                         İlksel
+2023.10.16 18:44:13  38.5317   39.6270        6.3      -.-  1.6  -.-   CUMHURIYETCI-MADEN (ELAZIG)                       İlksel
+2023.10.16 18:17:42  38.0868   36.4647        4.0      -.-  1.9  -.-   MEHMETBEY-GOKSUN (KAHRAMANMARAS)                  İlksel
+2023.10.16 18:12:02  35.3465   27.3530        7.1      -.-  2.4  -.-   AKDENIZ                                           İlksel
+2023.10.16 18:02:49  37.2015   31.1255        8.3      -.-  2.1  -.-   YESILVADI-SERIK (ANTALYA)                         İlksel
+2023.10.16 17:41:06  38.4703   36.5377        0.0      -.-  1.6  -.-   SARIZ (KAYSERI)                                   İlksel
+2023.10.16 17:26:50  41.3925   41.0563        5.0      -.-  2.4  -.-   FINDIKLI (RIZE)                                   İlksel
+2023.10.16 17:21:17  36.9057   29.5655        0.0      -.-  1.8  -.-   KINIK-FETHIYE (MUGLA)                             İlksel
+2023.10.16 17:10:13  38.1200   38.2988        5.0      -.-  2.8  -.-   KALECIK-CELIKHAN (ADIYAMAN)                       İlksel
+2023.10.16 17:07:26  36.7937   29.6498        0.0      -.-  1.5  -.-   SEKI-FETHIYE (MUGLA)                              İlksel
+2023.10.16 16:46:48  37.8035   37.8463        2.4      -.-  2.0  -.-   MERYEMUSAGI-TUT (ADIYAMAN)                        İlksel
+2023.10.16 16:39:39  37.9397   36.2998        4.3      -.-  2.5  -.-   HACIKODAL-GOKSUN (KAHRAMANMARAS)                  İlksel
+2023.10.16 16:36:48  37.8732   36.4552       20.1      -.-  1.6  -.-   DEGIRMENDERE-GOKSUN (KAHRAMANMARAS)               İlksel
+2023.10.16 16:11:12  37.8497   36.4418       18.3      -.-  1.8  -.-   GEBEN-ANDIRIN (KAHRAMANMARAS)                     İlksel
+2023.10.16 16:03:46  36.0355   30.8657       81.3      -.-  2.5  -.-   AKDENIZ                                           İlksel
+2023.10.16 15:18:26  37.7977   36.3265        4.0      -.-  1.5  -.-   CIGSAR-ANDIRIN (KAHRAMANMARAS)                    İlksel
+2023.10.16 14:58:35  39.2215   26.4352       12.1      -.-  1.8  -.-   MIDILLI ADASI (EGE DENIZI)                        İlksel
+2023.10.16 14:51:00  37.8587   36.3710        5.0      -.-  4.2  4.1   KUCUKCAMURLU-GOKSUN (KAHRAMANMARAS)               İlksel
+2023.10.16 14:28:34  38.8383   41.7015       13.6      -.-  1.8  -.-   YAZLA-(MUS)                                       İlksel
+2023.10.16 14:21:57  38.6570   43.1037        5.0      -.-  1.9  -.-   VAN GOLU                                          İlksel
+2023.10.16 14:20:18  38.1963   28.8582        7.7      -.-  1.6  -.-   BOGAZCIFTLIK-BULDAN (DENIZLI)                     İlksel
+2023.10.16 13:54:42  37.9938   36.3738       17.4      -.-  1.4  -.-   HUGTAS-GOKSUN (KAHRAMANMARAS)                     İlksel
+2023.10.16 13:47:58  38.0400   38.1827        6.6      -.-  2.2  -.-   PINARBASI-CELIKHAN (ADIYAMAN)                     İlksel
+2023.10.16 13:47:44  38.0455   38.2073       14.6      -.-  2.1  -.-   PINARBASI-CELIKHAN (ADIYAMAN)                     İlksel
+2023.10.16 13:41:35  37.8658   36.3490        9.3      -.-  2.4  -.-   KUCUKCAMURLU-GOKSUN (KAHRAMANMARAS)               İlksel
+2023.10.16 13:27:53  39.5998   29.3683        0.0      -.-  1.1  -.-   YENIKOY-TAVSANLI (KUTAHYA)                        İlksel
+2023.10.16 13:24:59  36.7368   33.8290       14.8      -.-  1.8  -.-   KAVAKKOY-SILIFKE (MERSIN)                         İlksel
+2023.10.16 13:22:39  38.2163   38.0887        4.9      -.-  2.2  -.-   ISIKLI-YESILYURT (MALATYA)                        İlksel
+2023.10.16 12:57:21  39.3115   29.3548        0.0      -.-  1.5  -.-   UZUNCAM-EMET (KUTAHYA)                            İlksel
+2023.10.16 12:44:17  38.1333   37.7907        4.1      -.-  1.8  -.-   FINDIKKOY-DOGANSEHIR (MALATYA)                    İlksel
+2023.10.16 12:34:33  38.7780   37.0332       19.0      -.-  1.4  -.-   KIZILPINAR-GURUN (SIVAS)                          İlksel
+2023.10.16 12:18:34  35.9058   27.1543       19.1      -.-  2.6  -.-   AKDENIZ                                           İlksel
+2023.10.16 12:08:58  38.1450   36.5793       11.4      -.-  2.0  -.-   KOMURKOY-GOKSUN (KAHRAMANMARAS)                   İlksel
+2023.10.16 11:47:37  39.6765   24.5318       10.3      -.-  2.1  -.-   EGE DENIZI                                        İlksel
+2023.10.16 11:13:36  36.7343   33.8280       21.1      -.-  1.8  -.-   KAVAKKOY-SILIFKE (MERSIN)                         İlksel
+2023.10.16 11:12:39  38.0013   36.6458        9.0      -.-  1.9  -.-   ELMALI-GOKSUN (KAHRAMANMARAS)                     İlksel
+2023.10.16 10:45:31  38.3353   27.1983        7.7      -.-  1.5  -.-   ZAFER-BUCA (IZMIR)                                İlksel
+2023.10.16 10:36:54  39.7573   28.3148       12.1      -.-  1.3  -.-   KAYAELI-KEPSUT (BALIKESIR)                        İlksel
+2023.10.16 09:21:13  36.6718   36.2922       11.1      -.-  1.6  -.-   KALEDIBI-ISKENDERUN (HATAY)                       İlksel
+2023.10.16 08:47:57  38.1773   37.9588        4.8      -.-  1.4  -.-   YUVALI-DOGANSEHIR (MALATYA)                       İlksel
+2023.10.16 07:35:30  40.8973   31.8095       11.7      -.-  2.1  -.-   HAYRANLAR-MENGEN (BOLU)                           İlksel
+2023.10.16 07:10:10  34.3517   24.0138       13.5      -.-  3.1  3.3   GIRIT ADASI ACIKLARI (AKDENIZ)                    İlksel
+2023.10.16 07:09:42  37.8185   37.7833       16.4      -.-  1.4  -.-   AKCABEL-GOLBASI (ADIYAMAN)                        İlksel
+2023.10.16 07:04:36  38.1247   37.1700        7.7      -.-  1.4  -.-   GUPLUCE-ELBISTAN (KAHRAMANMARAS)                  İlksel
+2023.10.16 06:57:27  37.9427   36.4063       17.3      -.-  0.8  -.-   SIRMALI-GOKSUN (KAHRAMANMARAS)                    İlksel
+2023.10.16 06:55:24  37.6395   29.3385        4.9      -.-  0.6  -.-   KOCAPINAR-SERINHISAR (DENIZLI)                    İlksel
+2023.10.16 06:43:21  37.9772   36.3768        7.3      -.-  2.1  -.-   HUGTAS-GOKSUN (KAHRAMANMARAS)                     İlksel
+2023.10.16 05:56:10  36.0630   28.1785       17.1      -.-  1.4  -.-   AKDENIZ                                           İlksel
+2023.10.16 05:37:19  34.4083   24.1830       14.4      -.-  2.8  -.-   GIRIT ADASI ACIKLARI (AKDENIZ)                    İlksel
+2023.10.16 05:06:06  38.6738   42.7268        5.0      -.-  2.2  -.-   VAN GOLU                                          İlksel
+2023.10.16 04:47:19  38.6752   42.7733        2.1      -.-  1.9  -.-   VAN GOLU                                          İlksel
+2023.10.16 04:42:53  38.6280   38.1182        2.9      -.-  1.4  -.-   FETHIYE-YAZIHAN (MALATYA)                         İlksel
+2023.10.16 04:13:33  38.4112   37.4573        7.6      -.-  1.6  -.-   YALINTAS-ELBISTAN (KAHRAMANMARAS)                 İlksel
+2023.10.16 04:07:05  38.0810   36.6448        4.5      -.-  1.0  -.-   GUCUKSU-GOKSUN (KAHRAMANMARAS)                    İlksel
+2023.10.16 04:03:25  37.4450   37.0767        8.4      -.-  1.2  -.-   CINARLI-PAZARCIK (KAHRAMANMARAS)                  İlksel
+2023.10.16 04:00:32  37.6123   35.7842       24.5      -.-  0.8  -.-   KABAKTEPE-KOZAN (ADANA)                           İlksel
+2023.10.16 03:40:07  38.4067   39.1555        8.2      -.-  1.7  -.-   KAVAKKOY-SIVRICE (ELAZIG)                         İlksel
+2023.10.16 03:34:42  37.6865   35.7903        6.8      -.-  1.2  -.-   YANALERIK-KOZAN (ADANA)                           İlksel
+2023.10.16 03:30:26  37.3963   35.7285       22.1      -.-  0.5  -.-   IDEMKOY-KOZAN (ADANA)                             İlksel
+2023.10.16 03:27:42  36.5903   27.7258       77.1      -.-  2.4  -.-   DATCA ACIKLARI-MUGLA (AKDENIZ)                    İlksel
+2023.10.16 03:22:17  37.6640   35.7897       13.4      -.-  1.4  -.-   YANALERIK-KOZAN (ADANA)                           İlksel
+2023.10.16 03:21:32  37.6732   35.8252        4.1      -.-  2.0  -.-   CAMDERE-KOZAN (ADANA)                             İlksel
+2023.10.16 03:16:00  37.2217   37.0007        2.8      -.-  1.4  -.-   SATIRHUYUK-NURDAGI (GAZIANTEP)                    İlksel
+2023.10.16 03:10:10  38.7417   43.1992       22.3      -.-  1.3  -.-   OZYURT-(VAN)                                      İlksel
+2023.10.16 02:47:50  37.9677   27.1205        5.7      -.-  1.3  -.-   KUSADASI KORFEZI (EGE DENIZI)                     İlksel
+2023.10.16 02:45:24  35.7658   31.4765        3.4      -.-  2.2  -.-   AKDENIZ                                           İlksel
+2023.10.16 02:36:38  38.2487   38.6470        7.0      -.-  1.3  -.-   KAVAKLIDERE-PUTURGE (MALATYA)                     İlksel
+2023.10.16 02:28:07  37.8040   35.5550        5.0      -.-  1.4  -.-   BURHANIYE-YAHYALI (KAYSERI)                       İlksel
+2023.10.16 02:19:43  35.0182   26.4342        5.0      -.-  2.1  -.-   GIRIT ADASI ACIKLARI (AKDENIZ)                    İlksel
+2023.10.16 02:18:59  37.0915   28.4127       16.7      -.-  0.8  -.-   ULA (MUGLA)                                       İlksel
+2023.10.16 02:17:51  38.3938   38.9068        5.4      -.-  1.9  -.-   YAYLANLI-BASKIL (ELAZIG)                          İlksel
+2023.10.16 02:05:54  37.6062   26.6990        7.6      -.-  1.3  -.-   SISAM ADASI (EGE DENIZI)                          İlksel
+2023.10.16 01:44:07  38.4942   36.5822        5.0      -.-  0.8  -.-   KUCUKSOBECIMEN-SARIZ (KAYSERI)                    İlksel
+2023.10.16 01:37:07  40.3085   32.0927        9.5      -.-  1.4  -.-   DOGANCALI-BEYPAZARI (ANKARA)                      İlksel
+2023.10.16 01:32:14  37.6718   34.7393        5.0      -.-  1.5  -.-   IMRAHOR-ULUKISLA (NIGDE)                          İlksel
+2023.10.16 01:09:03  38.8583   43.5608        2.3      -.-  2.0  -.-   AKCIFT-(VAN)                                      İlksel
+2023.10.16 00:57:32  38.5003   40.4437        4.9      -.-  2.4  -.-   SENLIK-LICE (DIYARBAKIR)                          İlksel
+2023.10.16 00:49:19  38.2518   39.1388       21.0      -.-  1.2  -.-   KONURTAY-DOGANYOL (MALATYA)                       İlksel
+2023.10.16 00:31:28  38.3052   37.7712        1.8      -.-  1.5  -.-   DUTLU-AKCADAG (MALATYA)                           İlksel
+2023.10.16 00:28:23  38.6433   37.2273        7.5      -.-  1.6  -.-   KAVAKKOY-GURUN (SIVAS)                            İlksel
+2023.10.16 00:22:50  38.3480   37.3848        5.0      -.-  1.5  -.-   YALINTAS-ELBISTAN (KAHRAMANMARAS)                 İlksel
+2023.10.16 00:13:18  38.3377   27.2098        8.9      -.-  1.4  -.-   ZAFER-BUCA (IZMIR)                                İlksel
+2023.10.16 00:04:05  38.5123   36.5222        3.6      -.-  1.1  -.-   YAYLACI-SARIZ (KAYSERI)                           İlksel
+2023.10.15 23:27:11  37.2048   29.0013        8.2      -.-  1.9  -.-   ALPA-TAVAS (DENIZLI)                              İlksel
+2023.10.15 23:09:43  37.2543   37.1205        3.2      -.-  1.9  -.-   COCELLI-PAZARCIK (KAHRAMANMARAS)                  İlksel
+2023.10.15 23:08:40  40.9210   33.5102        5.0      -.-  2.4  -.-   SULEYMANHACILAR-ILGAZ (CANKIRI)                   İlksel
+2023.10.15 22:38:53  39.2252   26.7140        9.0      -.-  1.8  -.-   ALTINOVA-AYVALIK (BALIKESIR)                      İlksel
+2023.10.15 22:37:21  38.5118   28.1317        5.4      -.-  1.4  -.-   KARAPINAR-SALIHLI (MANISA)                        İlksel
+2023.10.15 22:26:45  38.4680   23.4953        4.6      -.-  2.2  -.-   YUNANISTAN                                        İlksel
+2023.10.15 22:14:58  37.4632   37.0712       10.2      -.-  1.5  -.-   CINARLI-PAZARCIK (KAHRAMANMARAS)                  İlksel
+2023.10.15 20:56:22  38.1315   37.9023        5.0      -.-  2.1  -.-   CIGLIK-DOGANSEHIR (MALATYA)                       İlksel
+2023.10.15 20:47:01  38.3517   36.4632        2.9      -.-  2.7  -.-   DAYOLUK-SARIZ (KAYSERI)                           İlksel
+2023.10.15 20:39:46  40.8213   31.0103       15.5      -.-  2.1  -.-   KEMERYANI-GOLYAKA (DUZCE)                         İlksel
+2023.10.15 19:57:33  40.8043   30.9717        4.5      -.-  3.9  4.0   YILDIZTEPE-GUMUSOVA (DUZCE)                       İlksel
+2023.10.15 19:27:34  38.2795   36.3353        5.3      -.-  3.2  3.2   IGDEBEL-TUFANBEYLI (ADANA)                        İlksel
+2023.10.15 17:48:52  38.3288   38.1748        0.0      -.-  1.8  -.-   DURULDU-(MALATYA)                                 İlksel
+2023.10.15 17:19:26  37.8722   36.2973       12.2      -.-  1.7  -.-   PAYAMBURNU-GOKSUN (KAHRAMANMARAS)                 İlksel
+2023.10.15 17:06:14  37.8702   36.6567        7.9      -.-  2.7  -.-   DONGEL-(KAHRAMANMARAS)                            İlksel
+2023.10.15 16:57:15  36.9917   27.1360        5.0      -.-  2.3  -.-   ONIKI ADALAR (AKDENIZ)                            İlksel
+2023.10.15 16:26:25  39.0717   33.0380        4.5      -.-  2.0  -.-   KULU (KONYA)                                      İlksel
+2023.10.15 16:10:17  38.1468   37.2610       11.5      -.-  1.4  -.-   OZCANLI-ELBISTAN (KAHRAMANMARAS)                  İlksel
+2023.10.15 15:30:22  37.0782   36.6935        5.0      -.-  2.1  -.-   ZINCIRLI-ISLAHIYE (GAZIANTEP)                     İlksel
+2023.10.15 15:29:10  38.4568   37.3772        7.1      -.-  1.3  -.-   GAZIKOY-DARENDE (MALATYA)                         İlksel
+2023.10.15 15:07:17  38.2088   27.7280        5.4      -.-  1.4  -.-   ZEYTINOVA-BAYINDIR (IZMIR)                        İlksel
+2023.10.15 14:37:42  37.7998   36.2908        7.9      -.-  2.3  -.-   CIGSAR-ANDIRIN (KAHRAMANMARAS)                    İlksel
+2023.10.15 13:55:25  39.2875   28.5443        6.4      -.-  1.3  -.-   DEDELER-SINDIRGI (BALIKESIR)                      REVIZE01   (2023.10.15 13:55:26)
+2023.10.15 13:48:46  38.1150   37.8622        5.5      -.-  1.7  -.-   YOLKURU-DOGANSEHIR (MALATYA)                      İlksel
+2023.10.15 13:34:10  38.1558   38.5620        5.0      -.-  3.4  3.6   ULUKOY-(MALATYA)                                  İlksel
+2023.10.15 12:52:18  38.1102   36.7750       10.8      -.-  1.7  -.-   KORKMAZ-GOKSUN (KAHRAMANMARAS)                    İlksel
+2023.10.15 12:41:32  35.3057   33.6855       19.0      -.-  2.6  -.-   KIBRIS-ISKELE                                     İlksel
+2023.10.15 12:40:10  37.8273   36.0998        9.9      -.-  1.5  -.-   YARDIBI-SAIMBEYLI (ADANA)                         İlksel
+2023.10.15 12:33:51  39.2750   37.2627        8.1      -.-  1.5  -.-   YAYLACIK-KANGAL (SIVAS)                           İlksel
+2023.10.15 12:06:51  36.1190   33.5473        5.2      -.-  1.6  -.-   YANISLI-GULNAR (MERSIN)                           İlksel
+2023.10.15 11:25:50  38.2587   37.2393        5.0      -.-  2.1  -.-   ELDELEK-ELBISTAN (KAHRAMANMARAS)                  İlksel
+2023.10.15 11:16:55  36.7502   35.6838        7.9      -.-  1.4  -.-   HAYLAZLI-YUMURTALIK (ADANA)                       İlksel
+2023.10.15 11:07:43  37.7612   28.0533       26.0      -.-  1.3  -.-   KASAR-CINE (AYDIN)                                İlksel
+2023.10.15 10:45:20  39.7160   29.0587       12.2      -.-  1.6  -.-   GEDIKLER-BUYUKORHAN (BURSA)                       İlksel
+2023.10.15 10:14:17  37.9100   36.3823       17.3      -.-  1.6  -.-   BUYUKCAMURLU-GOKSUN (KAHRAMANMARAS)               İlksel
+2023.10.15 09:47:08  37.9887   27.0902       20.3      -.-  1.2  -.-   KUSADASI KORFEZI (EGE DENIZI)                     İlksel
+2023.10.15 09:32:06  37.8947   36.3943        5.0      -.-  2.3  -.-   BUYUKCAMURLU-GOKSUN (KAHRAMANMARAS)               İlksel
+2023.10.15 09:18:10  37.2320   35.4318        5.0      -.-  1.9  -.-   MALTEPE-SARICAM (ADANA)                           İlksel
+2023.10.15 08:38:47  37.8332   29.0777       15.8      -.-  1.6  -.-   CELTIKCI-(DENIZLI)                                REVIZE01   (2023.10.15 08:38:47)
+2023.10.15 08:29:52  37.9245   37.2022        4.8      -.-  1.6  -.-   CIFTLIKKOY-EKINOZU (KAHRAMANMARAS)                İlksel
+2023.10.15 08:23:00  39.4055   29.1153        3.5      -.-  1.7  -.-   ORENCIK-SIMAV (KUTAHYA)                           İlksel
+2023.10.15 08:16:51  40.7483   30.5492       13.4      -.-  1.4  -.-   BEDILTAHIRBEY-AKYAZI (SAKARYA)                    İlksel
+2023.10.15 07:41:42  38.2383   38.1445        7.2      -.-  1.7  -.-   SEYITUSAGI-YESILYURT (MALATYA)                    İlksel
+2023.10.15 07:11:04  35.7643   27.0478        9.1      -.-  2.0  -.-   AKDENIZ                                           İlksel
+2023.10.15 05:44:58  40.8853   31.6620        5.0      -.-  1.8  -.-   MESCICELE-(BOLU)                                  İlksel
+2023.10.15 05:39:33  38.1367   37.8235        1.5      -.-  1.8  -.-   FINDIKKOY-DOGANSEHIR (MALATYA)                    İlksel
+2023.10.15 05:11:31  37.9170   36.2675        5.6      -.-  1.9  -.-   HACIKODAL-GOKSUN (KAHRAMANMARAS)                  İlksel
+2023.10.15 04:44:08  36.2863   36.1085        6.7      -.-  1.1  -.-   KARLISU-(HATAY)                                   İlksel
+2023.10.15 04:32:50  40.4752   26.3343        6.4      -.-  2.9  -.-   SAROS KORFEZI (EGE DENIZI)                        İlksel
+2023.10.15 04:17:29  37.8708   36.7193        6.6      -.-  3.0  -.-   SAHINKAYASI-(KAHRAMANMARAS)                       İlksel
+2023.10.15 04:13:03  35.6572   26.9558       19.9      -.-  2.7  -.-   AKDENIZ                                           İlksel
+2023.10.15 04:04:48  38.5283   28.1328       12.5      -.-  1.2  -.-   KARAPINAR-SALIHLI (MANISA)                        İlksel
+2023.10.15 03:58:53  40.1557   42.0055        5.0      -.-  2.9  -.-   MURATBAGI-HORASAN (ERZURUM)                       İlksel
+2023.10.15 03:48:27  38.4047   37.2815        5.4      -.-  1.6  -.-   GOKCEK-ELBISTAN (KAHRAMANMARAS)                   İlksel
+2023.10.15 03:46:22  36.0077   28.0902        5.0      -.-  2.1  -.-   AKDENIZ                                           İlksel
+2023.10.15 03:46:00  38.6032   40.6947        4.6      -.-  2.2  -.-   YOLACTI-GENC (BINGOL)                             İlksel
+2023.10.15 03:44:09  36.3085   36.1777        3.3      -.-  1.7  -.-   AKHISAR-(HATAY)                                   İlksel
+2023.10.15 03:41:03  36.5857   35.9463        7.9      -.-  0.9  -.-   ISKENDERUN KORFEZI (AKDENIZ)                      İlksel
+2023.10.15 03:38:20  37.0513   28.5463       17.0      -.-  1.1  -.-   KARABOGURTLEN-ULA (MUGLA)                         İlksel
+2023.10.15 03:29:09  40.2678   31.9157        5.5      -.-  1.7  -.-   YIGERLER-BEYPAZARI (ANKARA)                       İlksel
+2023.10.15 03:19:10  38.2010   36.8707        5.0      -.-  1.3  -.-   ORDEKKOY-AFSIN (KAHRAMANMARAS)                    İlksel
+2023.10.15 03:08:16  37.6685   35.8797        5.0      -.-  2.0  -.-   CULLUUSAGI-KOZAN (ADANA)                          İlksel
+2023.10.15 02:44:35  37.3197   28.0607        5.2      -.-  1.1  -.-   ESKIHISAR-YATAGAN (MUGLA)                         İlksel
+2023.10.15 02:42:02  37.4990   29.5847        8.2      -.-  1.4  -.-   GUNEY-YESILOVA (BURDUR)                           İlksel
+2023.10.15 02:31:24  36.6100   28.3383        1.0      -.-  1.7  -.-   AKDENIZ                                           İlksel
+2023.10.15 02:23:47  35.6670   25.3968        5.0      -.-  2.2  -.-   GIRIT ADASI (AKDENIZ)                             İlksel
+2023.10.15 02:18:48  38.5110   28.1808        6.5      -.-  1.4  -.-   TAYTAN-SALIHLI (MANISA)                           İlksel
+2023.10.15 02:17:30  38.5128   28.2067        5.3      -.-  1.1  -.-   TAYTAN-SALIHLI (MANISA)                           İlksel
+2023.10.15 02:16:45  37.8692   36.4430        7.7      -.-  1.4  -.-   BUYUKCAMURLU-GOKSUN (KAHRAMANMARAS)               İlksel
+2023.10.15 01:51:37  39.4858   36.6518        8.2      -.-  1.9  -.-   KIZILOVA-(SIVAS)                                  İlksel
+2023.10.15 01:51:24  38.5295   28.1825        6.5      -.-  2.1  -.-   TAYTAN-SALIHLI (MANISA)                           İlksel
+2023.10.15 01:50:21  37.5252   35.4730        7.6      -.-  1.3  -.-   KIZILDAM-ALADAG (ADANA)                           İlksel
+2023.10.15 01:45:06  40.8403   31.6900        2.9      -.-  1.7  -.-   YESILCELE-(BOLU)                                  İlksel
+2023.10.15 01:31:54  37.5480   37.2557        3.9      -.-  3.6  3.6   TETIRLIK-PAZARCIK (KAHRAMANMARAS)                 İlksel
+2023.10.15 01:08:11  36.1392   28.9230        5.0      -.-  1.7  -.-   AKDENIZ                                           İlksel
+2023.10.15 01:05:28  39.2272   29.3558        5.4      -.-  2.2  -.-   KARBASAN-HISARCIK (KUTAHYA)                       İlksel
+2023.10.15 00:51:23  38.5358   28.1752        7.0      -.-  2.2  -.-   CAVLU-SALIHLI (MANISA)                            İlksel
+2023.10.15 00:46:50  38.3402   27.1648        7.6      -.-  1.8  -.-   GAZIEMIR (IZMIR)                                  İlksel
+2023.10.15 00:44:30  37.1235   28.2683       14.3      -.-  0.9  -.-   YERKESIK-(MUGLA)                                  İlksel
+2023.10.15 00:38:42  36.2350   36.2483        3.3      -.-  1.7  -.-   ACIKDERE-(HATAY)                                  İlksel
+2023.10.15 00:31:13  37.8395   36.6237        5.7      -.-  1.9  -.-   CEVREPINAR-(KAHRAMANMARAS)                        İlksel
+2023.10.15 00:04:08  38.0058   36.6457       11.1      -.-  1.6  -.-   ELMALI-GOKSUN (KAHRAMANMARAS)                     İlksel
+2023.10.14 23:58:48  38.5275   28.1422        5.5      -.-  1.6  -.-   CAVLU-SALIHLI (MANISA)                            İlksel
+2023.10.14 23:47:48  38.0522   37.4590        5.4      -.-  1.8  -.-   TATLAR-NURHAK (KAHRAMANMARAS)                     İlksel
+2023.10.14 23:34:19  37.8715   36.3188        5.0      -.-  2.1  -.-   PAYAMBURNU-GOKSUN (KAHRAMANMARAS)                 İlksel
+2023.10.14 23:27:47  39.5773   34.1797       14.2      -.-  1.3  -.-   MAHSENLI-AKCAKENT (KIRSEHIR)                      İlksel
+2023.10.14 22:44:08  39.6003   26.0402       13.3      -.-  2.6  -.-   TAVAKLI ACIKLARI-CANAKKALE (EGE DENIZI)           İlksel
+2023.10.14 22:42:44  38.5177   28.2040        5.3      -.-  1.6  -.-   TAYTAN-SALIHLI (MANISA)                           İlksel
+2023.10.14 22:35:26  38.5753   39.4007        5.1      -.-  1.5  -.-   KARASAZ-(ELAZIG)                                  İlksel
+2023.10.14 22:33:32  38.5367   28.1762        6.4      -.-  2.2  -.-   CAVLU-SALIHLI (MANISA)                            İlksel
+2023.10.14 22:05:33  38.0307   36.5100        5.8      -.-  2.1  -.-   HACIMIRZA-GOKSUN (KAHRAMANMARAS)                  İlksel
+2023.10.14 21:58:05  38.9677   37.4455        8.2      -.-  1.7  -.-   SARICA-GURUN (SIVAS)                              İlksel
+2023.10.14 21:56:34  37.4703   35.3863       12.4      -.-  1.6  -.-   CERITLER-ALADAG (ADANA)                           İlksel
+2023.10.14 21:41:46  38.9532   42.5690        9.2      -.-  2.2  -.-   AKOREN-MALAZGIRT (MUS)                            İlksel
+2023.10.14 21:22:05  37.9702   27.1422        5.4      -.-  2.1  -.-   KUSADASI KORFEZI (EGE DENIZI)                     İlksel
+2023.10.14 21:12:28  36.4482   25.5475        5.0      -.-  1.9  -.-   AKDENIZ                                           İlksel
+2023.10.14 21:02:10  38.3968   39.1190        5.0      -.-  2.7  -.-   KAMISLIK-SIVRICE (ELAZIG)                         İlksel
+2023.10.14 20:50:22  37.5552   38.4463        5.5      -.-  1.9  -.-   GULPINAR-SAMSAT (ADIYAMAN)                        İlksel
+2023.10.14 20:41:40  38.0015   25.6852       22.3      -.-  1.6  -.-   EGE DENIZI                                        İlksel
+2023.10.14 20:23:49  39.5948   26.0460        9.3      -.-  2.2  -.-   TAVAKLI ACIKLARI-CANAKKALE (EGE DENIZI)           İlksel
+2023.10.14 20:07:42  37.9590   36.3053       21.5      -.-  1.8  -.-   KAZANDERE-GOKSUN (KAHRAMANMARAS)                  İlksel
+2023.10.14 20:00:59  38.1895   38.6145        7.0      -.-  1.6  -.-   SOGUTLU-PUTURGE (MALATYA)                         İlksel
+2023.10.14 19:42:51  40.8960   31.6908        8.7      -.-  1.2  -.-   MESCICELE-(BOLU)                                  İlksel
+2023.10.14 19:27:00  39.7773   38.2250        2.8      -.-  1.7  -.-   TOPTAS-IMRANLI (SIVAS)                            İlksel
+2023.10.14 19:22:44  36.6097   23.5207        5.0      -.-  1.5  -.-   YUNANISTAN                                        İlksel
+2023.10.14 19:19:44  40.8843   31.7337        5.3      -.-  2.1  -.-   BAGISLAR-(BOLU)                                   İlksel
+2023.10.14 19:09:11  36.3643   36.1003        4.3      -.-  2.6  -.-   CERCIKAYA-BELEN (HATAY)                           İlksel
+2023.10.14 19:04:57  37.9962   36.2747       15.0      -.-  1.4  -.-   KAZANDERE-GOKSUN (KAHRAMANMARAS)                  İlksel
+2023.10.14 18:57:19  36.2388   36.1338        3.5      -.-  1.4  -.-   SARAYCIK-(HATAY)                                  İlksel
+2023.10.14 18:55:22  37.9070   36.3653        4.7      -.-  2.5  -.-   BUYUKCAMURLU-GOKSUN (KAHRAMANMARAS)               İlksel
+2023.10.14 18:51:04  38.9968   43.5742       15.1      -.-  1.8  -.-   UNSELI-MURADIYE (VAN)                             İlksel
+2023.10.14 18:37:25  37.9177   27.4188        5.0      -.-  1.3  -.-   SIRINCE-SELCUK (IZMIR)                            İlksel
+2023.10.14 18:35:12  40.8840   31.7450       11.1      -.-  2.1  -.-   BAGISLAR-(BOLU)                                   İlksel
+2023.10.14 18:23:12  38.3250   27.2018        1.7      -.-  1.2  -.-   ZAFER-BUCA (IZMIR)                                İlksel
+2023.10.14 17:47:29  40.8770   31.7393        6.3      -.-  2.5  -.-   BAGISLAR-(BOLU)                                   İlksel
+2023.10.14 17:42:21  40.8675   31.6995        3.2      -.-  1.9  -.-   MESCICELE-(BOLU)                                  İlksel
+2023.10.14 17:27:36  39.4527   27.8320        9.8      -.-  2.4  -.-   TAYYIPLER-(BALIKESIR)                             İlksel
+2023.10.14 17:24:35  40.8932   31.7582        7.2      -.-  2.2  -.-   MERKESLER-(BOLU)                                  İlksel
+2023.10.14 17:11:21  40.8588   31.7172        3.7      -.-  1.9  -.-   MESCICELE-(BOLU)                                  İlksel
+2023.10.14 17:07:09  40.8708   31.7363        5.5      -.-  4.5  4.5   BAGISLAR-(BOLU)                                   İlksel
+2023.10.14 16:14:25  36.3680   26.5872        5.2      -.-  2.9  2.8   AKDENIZ                                           İlksel
+2023.10.14 15:53:36  38.4845   37.5008        5.9      -.-  2.5  -.-   YAVUZLAR-DARENDE (MALATYA)                        İlksel
+2023.10.14 15:28:20  38.2532   36.8293        9.4      -.-  2.1  -.-   BASUSTU-AFSIN (KAHRAMANMARAS)                     İlksel
+2023.10.14 15:02:10  38.1128   37.8013        5.0      -.-  3.3  -.-   FINDIKKOY-DOGANSEHIR (MALATYA)                    İlksel
+2023.10.14 14:49:53  39.4397   27.8145       20.0      -.-  1.6  -.-   CINARLIDERE-(BALIKESIR)                           İlksel
+2023.10.14 13:55:01  36.7602   33.8032       15.3      -.-  1.9  -.-   KAVAKKOY-SILIFKE (MERSIN)                         İlksel
+2023.10.14 13:51:55  38.0875   37.1520        2.7      -.-  2.6  -.-   EKINOZU (KAHRAMANMARAS)                           İlksel
+2023.10.14 13:36:37  38.1458   36.6667        8.0      -.-  1.8  -.-   KARAOMER-GOKSUN (KAHRAMANMARAS)                   İlksel
+2023.10.14 13:30:37  36.7438   33.7958       17.9      -.-  2.5  -.-   KAVAKKOY-SILIFKE (MERSIN)                         İlksel
+2023.10.14 13:01:59  36.7615   33.7972        7.7      -.-  3.8  -.-   KAVAKKOY-SILIFKE (MERSIN)                         İlksel
+2023.10.14 12:53:39  38.0412   37.3860        6.5      -.-  1.7  -.-   AGCASAR-NURHAK (KAHRAMANMARAS)                    İlksel
+2023.10.14 12:48:26  40.6887   32.2933       15.3      -.-  1.7  -.-   YAKABOY-GEREDE (BOLU)                             İlksel
+2023.10.14 12:46:20  40.0392   26.9510        5.4      -.-  1.6  -.-   KARLI-CAN (CANAKKALE)                             İlksel
+2023.10.14 12:20:54  37.1495   27.8970        9.5      -.-  1.4  -.-   KARACAAGAC-MILAS (MUGLA)                          İlksel
+2023.10.14 12:15:34  38.1007   37.7683        6.9      -.-  2.1  -.-   FINDIKKOY-DOGANSEHIR (MALATYA)                    İlksel
+2023.10.14 12:13:32  36.7842   36.4338       22.5      -.-  1.1  -.-   YOLUKLAR-HASSA (HATAY)                            İlksel
+2023.10.14 12:08:40  38.3472   27.1818       14.3      -.-  1.6  -.-   ZAFER-BUCA (IZMIR)                                İlksel
+2023.10.14 11:52:07  36.2720   33.7118        0.0      -.-  1.0  -.-   ISIKLI-SILIFKE (MERSIN)                           İlksel
+2023.10.14 11:00:03  34.6728   24.2802       25.3      -.-  4.1  4.2   GIRIT ADASI ACIKLARI (AKDENIZ)                    İlksel
+2023.10.14 10:31:24  37.2752   37.0820        7.8      -.-  1.7  -.-   EVRI-PAZARCIK (KAHRAMANMARAS)                     İlksel
+2023.10.14 10:11:36  34.5183   24.3377       18.7      -.-  2.4  -.-   GIRIT ADASI ACIKLARI (AKDENIZ)                    İlksel
+2023.10.14 10:04:34  38.0858   38.3722        5.0      -.-  3.6  3.7   KORUCAK-CELIKHAN (ADIYAMAN)                       İlksel
+2023.10.14 09:55:11  37.9658   27.0925        4.2      -.-  2.2  -.-   KUSADASI KORFEZI (EGE DENIZI)                     İlksel
+2023.10.14 09:54:00  39.1168   27.5485        0.0      -.-  2.1  -.-   DEREKOY-SOMA (MANISA)                             İlksel
+2023.10.14 09:38:33  37.3055   37.0947        4.1      -.-  2.5  -.-   ORDEKDEDE-PAZARCIK (KAHRAMANMARAS)                İlksel
+2023.10.14 09:25:04  37.9460   36.3025        5.0      -.-  2.5  -.-   HACIKODAL-GOKSUN (KAHRAMANMARAS)                  İlksel
+2023.10.14 09:18:34  38.8367   37.4595        5.0      -.-  2.9  -.-   KULAHLI-GURUN (SIVAS)                             İlksel
+2023.10.14 09:18:14  36.2370   25.5785        9.8      -.-  2.2  -.-   AKDENIZ                                           İlksel
+2023.10.14 09:04:25  38.0258   36.3343       14.1      -.-  1.9  -.-   HUGTAS-GOKSUN (KAHRAMANMARAS)                     İlksel
+2023.10.14 08:57:53  36.1082   36.1427       13.2      -.-  2.9  -.-   BOZLU-(HATAY)                                     İlksel
+2023.10.14 08:48:55  37.2953   37.1273        7.2      -.-  3.5  3.6   HANOBASI-PAZARCIK (KAHRAMANMARAS)                 İlksel
+2023.10.14 07:20:09  34.4637   23.9008       72.6      -.-  3.9  4.0   GIRIT ADASI ACIKLARI (AKDENIZ)                    İlksel
+2023.10.14 06:46:38  34.7865   24.3017       26.6      -.-  3.3  3.4   GIRIT ADASI ACIKLARI (AKDENIZ)                    İlksel
+2023.10.14 06:11:43  38.1902   39.9932        2.3      -.-  1.9  -.-   KIRKKUYU-EGIL (DIYARBAKIR)                        İlksel
+2023.10.14 05:33:03  36.7828   36.2890       21.5      -.-  1.3  -.-   CAGLALIK-DORTYOL (HATAY)                          İlksel
+2023.10.14 05:11:51  38.4633   37.5157        5.7      -.-  1.9  -.-   YENICE-DARENDE (MALATYA)                          İlksel
+2023.10.14 04:29:05  37.8418   37.6408        5.0      -.-  2.2  -.-   MEYDANKOY-GOLBASI (ADIYAMAN)                      İlksel
+2023.10.14 03:24:43  37.8770   36.6648        4.0      -.-  2.1  -.-   DONGEL-(KAHRAMANMARAS)                            İlksel
+2023.10.14 02:48:27  38.1510   37.7423        9.3      -.-  1.6  -.-   CAVUSLU-DOGANSEHIR (MALATYA)                      İlksel
+2023.10.14 02:34:55  38.5927   37.5457        5.0      -.-  1.4  -.-   GOLLUCE-DARENDE (MALATYA)                         İlksel
+2023.10.14 02:30:40  35.5470   27.2680       11.8      -.-  2.8  -.-   AKDENIZ                                           İlksel
+2023.10.14 02:05:43  38.4548   39.1520        5.2      -.-  1.8  -.-   GUNBALI-SIVRICE (ELAZIG)                          İlksel
+2023.10.14 01:46:05  38.1797   36.9967        7.5      -.-  1.8  -.-   ALTAS-AFSIN (KAHRAMANMARAS)                       İlksel
+2023.10.14 01:05:32  36.5837   36.4215       17.7      -.-  1.6  -.-   GUZELCE-KIRIKHAN (HATAY)                          İlksel
+2023.10.14 00:57:00  38.4867   37.4872        5.0      -.-  1.8  -.-   YAVUZLAR-DARENDE (MALATYA)                        İlksel
+2023.10.14 00:49:23  35.8758   27.9982       42.1      -.-  2.2  -.-   AKDENIZ                                           İlksel
+2023.10.14 00:22:31  38.8863   44.3213        5.0      -.-  3.0  -.-   DAMLACIK-OZALP (VAN)                              İlksel
+2023.10.14 00:20:53  38.1310   36.6328        5.0      -.-  2.4  -.-   YENIYAPAN-GOKSUN (KAHRAMANMARAS)                  İlksel
+2023.10.13 23:21:25  38.3645   28.5217        5.0      -.-  1.4  -.-   ALASEHIR (MANISA)                                 İlksel
+2023.10.13 23:13:35  38.0175   37.0797       17.5      -.-  1.4  -.-   YENIKOY-EKINOZU (KAHRAMANMARAS)                   İlksel
+2023.10.13 22:54:07  40.7763   31.0225        9.2      -.-  3.1  -.-   HACIYAKUP-GOLYAKA (DUZCE)                         İlksel
+2023.10.13 22:15:11  38.7643   43.5293        5.0      -.-  2.8  -.-   DEGIRMENOZU-(VAN)                                 İlksel
+2023.10.13 21:48:08  38.4812   37.4848        5.0      -.-  1.4  -.-   YAVUZLAR-DARENDE (MALATYA)                        İlksel
+2023.10.13 21:25:29  37.2837   36.9017        7.9      -.-  1.7  -.-   BALIKALAN-NURDAGI (GAZIANTEP)                     İlksel
+2023.10.13 21:00:41  37.8610   26.9410        1.8      -.-  1.6  -.-   KUSADASI KORFEZI (EGE DENIZI)                     İlksel
+2023.10.13 20:47:31  38.2557   27.4363        2.8      -.-  2.2  -.-   KORUCUK-TORBALI (IZMIR)                           İlksel
+2023.10.13 20:13:19  38.3275   27.2140        5.9      -.-  2.3  -.-   ZAFER-BUCA (IZMIR)                                İlksel
+2023.10.13 20:13:04  37.4228   36.8890        6.1      -.-  1.5  -.-   KILILI-TURKOGLU (KAHRAMANMARAS)                   İlksel
+2023.10.13 20:03:23  37.3655   37.0027       16.7      -.-  1.8  -.-   YENIKOY-TURKOGLU (KAHRAMANMARAS)                  İlksel
+2023.10.13 20:00:25  37.2255   28.9970       10.3      -.-  1.6  -.-   KOZLAR-TAVAS (DENIZLI)                            İlksel
+2023.10.13 19:49:19  37.8053   35.5108        8.3      -.-  1.6  -.-   BALCICAKIRI-YAHYALI (KAYSERI)                     İlksel
+2023.10.13 19:44:23  38.1227   37.0783        7.7      -.-  1.3  -.-   ORTAOREN-EKINOZU (KAHRAMANMARAS)                  İlksel
+2023.10.13 19:23:54  37.9095   36.4243       21.5      -.-  1.2  -.-   FINDIKLIKOYAK-GOKSUN (KAHRAMANMARAS)              İlksel
+2023.10.13 19:11:32  38.0515   36.1420        8.2      -.-  1.7  -.-   AVCIPINARI-SAIMBEYLI (ADANA)                      İlksel
+2023.10.13 18:58:23  37.3085   37.0305        5.3      -.-  1.3  -.-   CENNETPINARI-PAZARCIK (KAHRAMANMARAS)             İlksel
+2023.10.13 18:50:37  37.8922   36.3180        5.0      -.-  2.2  -.-   PAYAMBURNU-GOKSUN (KAHRAMANMARAS)                 İlksel
+2023.10.13 18:09:35  36.1277   33.5473        3.8      -.-  1.7  -.-   BUYUKECELI-GULNAR (MERSIN)                        İlksel
+2023.10.13 17:48:34  37.9447   36.6460        8.7      -.-  2.0  -.-   KURUCAOVA-(KAHRAMANMARAS)                         İlksel
+2023.10.13 17:26:40  37.9122   26.5982        1.9      -.-  3.4  3.0   EGE DENIZI                                        İlksel
+2023.10.13 17:24:38  39.4235   28.2915        5.5      -.-  1.4  -.-   HISARKOY-BIGADIC (BALIKESIR)                      İlksel
+2023.10.13 17:01:10  37.0305   28.9290       11.6      -.-  1.7  -.-   OTMANLAR-KOYCEGIZ (MUGLA)                         İlksel
+2023.10.13 16:38:15  38.3843   37.7560        5.0      -.-  1.8  -.-   DEMIRCILER-AKCADAG (MALATYA)                      İlksel
+2023.10.13 16:32:42  36.5708   36.3687       21.6      -.-  1.6  -.-   CEYLANLI-KIRIKHAN (HATAY)                         İlksel
+2023.10.13 16:20:14  38.0170   36.4787        9.3      -.-  1.7  -.-   GOKSUN (KAHRAMANMARAS)                            İlksel
+2023.10.13 16:12:12  36.5492   36.3822        8.4      -.-  3.0  2.9   CEYLANLI-KIRIKHAN (HATAY)                         İlksel
+2023.10.13 15:41:54  38.4295   39.1875        7.5      -.-  1.8  -.-   YEDIPINAR-SIVRICE (ELAZIG)                        İlksel
+2023.10.13 15:21:39  38.0390   38.3060        5.0      -.-  1.7  -.-   KOSEUSAGI-CELIKHAN (ADIYAMAN)                     İlksel
+2023.10.13 15:01:33  37.9062   27.1100        7.6      -.-  2.0  -.-   KUSADASI KORFEZI (EGE DENIZI)                     İlksel
+2023.10.13 14:50:37  36.1898   33.4613        0.0      -.-  1.4  -.-   SIPAHILI-GULNAR (MERSIN)                          İlksel
+2023.10.13 14:42:36  39.6332   30.0682        0.0      -.-  1.5  -.-   YAZLICA-(KUTAHYA)                                 İlksel
+2023.10.13 14:12:03  37.6560   27.1172       14.0      -.-  1.6  -.-   DOGANBEY-SOKE (AYDIN)                             İlksel
+2023.10.13 14:05:55  41.2453   28.8903        0.0      -.-  1.3  -.-   CIFTALAN-EYUP (ISTANBUL)                          İlksel
+2023.10.13 14:03:14  37.2498   28.9618        5.0      -.-  1.5  -.-   YENICESME-BEYAGAC (DENIZLI)                       İlksel
+2023.10.13 13:54:47  40.7022   27.6010       13.8      -.-  1.9  -.-   MARMARA DENIZI                                    İlksel
+2023.10.13 13:34:36  38.2318   27.0812        6.4      -.-  1.3  -.-   CATALCA-MENDERES (IZMIR)                          İlksel
+2023.10.13 13:32:16  38.2092   38.6288        5.0      -.-  2.7  -.-   SOGUTLU-PUTURGE (MALATYA)                         İlksel
+2023.10.13 13:29:35  38.0853   37.3050        4.9      -.-  2.3  -.-   OZCANLI-ELBISTAN (KAHRAMANMARAS)                  İlksel
+2023.10.13 13:27:25  36.1410   36.1740       12.8      -.-  2.3  -.-   HARBIYE-(HATAY)                                   İlksel
+2023.10.13 13:06:05  38.2840   38.5407       21.3      -.-  1.6  -.-   TOKLUCA-(MALATYA)                                 İlksel
+2023.10.13 13:03:45  36.1018   33.5915        7.9      -.-  1.6  -.-   BUYUKECELI-GULNAR (MERSIN)                        İlksel
+2023.10.13 12:57:53  40.3338   27.0023        5.5      -.-  2.1  -.-   DISBUDAK-LAPSEKI (CANAKKALE)                      İlksel
+2023.10.13 12:38:00  37.7998   36.1062       18.3      -.-  2.1  -.-   AYVACIK-SAIMBEYLI (ADANA)                         İlksel
+2023.10.13 12:02:05  37.9975   38.1267        5.4      -.-  2.0  -.-   KURUCAOVA-DOGANSEHIR (MALATYA)                    İlksel
+2023.10.13 11:57:22  38.2660   37.2005        6.7      -.-  1.6  -.-   CATOVA-ELBISTAN (KAHRAMANMARAS)                   İlksel
+2023.10.13 11:56:08  39.7572   30.1008        0.0      -.-  1.5  -.-   ESNEMEZ-INONU (ESKISEHIR)                         İlksel
+2023.10.13 09:29:59  38.2445   38.6720        5.4      -.-  2.5  -.-   KOKPINAR-PUTURGE (MALATYA)                        İlksel
+2023.10.13 08:44:02  38.3458   37.3735        8.3      -.-  1.8  -.-   INCECIK-ELBISTAN (KAHRAMANMARAS)                  İlksel
+2023.10.13 08:00:28  38.2007   37.3398        5.0      -.-  2.0  -.-   DEMIRCILIK-ELBISTAN (KAHRAMANMARAS)               İlksel
+2023.10.13 07:49:07  39.2840   41.0622        5.3      -.-  2.7  -.-   SAKAOREN-KARLIOVA (BINGOL)                        İlksel
+2023.10.13 07:36:54  39.3345   41.0510        5.0      -.-  3.3  3.4   YONCALIK-KARLIOVA (BINGOL)                        İlksel
+2023.10.13 07:14:09  38.0857   36.7335        5.0      -.-  1.5  -.-   FINDIK-GOKSUN (KAHRAMANMARAS)                     İlksel
+2023.10.13 07:05:45  37.9290   36.3515        5.0      -.-  1.8  -.-   YOGUNOLUK-GOKSUN (KAHRAMANMARAS)                  İlksel
+2023.10.13 06:33:14  37.7773   24.1425       10.3      -.-  3.6  3.7   YUNANISTAN                                        İlksel
+2023.10.13 06:18:07  38.6875   38.0385        5.0      -.-  2.1  -.-   ALICAN-YAZIHAN (MALATYA)                          İlksel
+2023.10.13 05:44:05  36.2972   36.2117        5.0      -.-  1.6  -.-   BUYUKDALYAN-(HATAY)                               İlksel
+2023.10.13 05:20:50  37.8342   33.8313        5.0      -.-  1.7  -.-   KARAOREN-EMIRGAZI (KONYA)                         İlksel
+2023.10.13 04:56:37  38.0632   36.6788        5.0      -.-  1.7  -.-   GUCUKSU-GOKSUN (KAHRAMANMARAS)                    İlksel
+2023.10.13 04:39:50  37.9620   38.0288        5.0      -.-  2.0  -.-   RESADIYE-DOGANSEHIR (MALATYA)                     İlksel
+2023.10.13 04:36:43  38.0783   38.4072        5.0      -.-  2.5  -.-   KARAGOL-CELIKHAN (ADIYAMAN)                       İlksel
+2023.10.13 04:09:23  37.8860   36.2687       11.4      -.-  1.9  -.-   TOPALLAR-SAIMBEYLI (ADANA)                        İlksel
+2023.10.13 03:36:38  38.0698   36.0100        6.6      -.-  1.2  -.-   NALTAS-SAIMBEYLI (ADANA)                          İlksel
+2023.10.13 03:15:33  37.5008   36.7572        6.9      -.-  1.6  -.-   DADAGLI-(KAHRAMANMARAS)                           İlksel
+2023.10.13 02:50:41  36.8140   36.5643       13.0      -.-  1.8  -.-   KORUHUYUGU-HASSA (HATAY)                          İlksel
+2023.10.13 02:43:11  36.2787   36.3185        8.0      -.-  2.7  -.-   MELEKLI-(HATAY)                                   İlksel
+2023.10.13 02:41:25  37.7438   36.3997        2.3      -.-  3.0  3.0   GEBEN-ANDIRIN (KAHRAMANMARAS)                     İlksel
+2023.10.13 02:38:49  38.4278   39.1543        5.6      -.-  1.9  -.-   KAVAKKOY-SIVRICE (ELAZIG)                         İlksel
+2023.10.13 02:28:58  38.4247   39.1450        5.0      -.-  2.1  -.-   KAVAKKOY-SIVRICE (ELAZIG)                         İlksel
+2023.10.13 02:05:38  37.9970   36.5167       17.3      -.-  1.3  -.-   ASLANBEYCIFTLIGI-GOKSUN (KAHRAMANMARAS)           İlksel
+2023.10.13 01:55:12  38.4060   39.1230        5.0      -.-  2.0  -.-   KAMISLIK-SIVRICE (ELAZIG)                         İlksel
+2023.10.13 01:45:28  38.0377   37.5543        5.0      -.-  1.8  -.-   TATLAR-NURHAK (KAHRAMANMARAS)                     İlksel
+2023.10.13 01:26:26  38.2612   37.7442        7.4      -.-  1.6  -.-   CEVIRME-AKCADAG (MALATYA)                         İlksel
+2023.10.13 01:23:49  36.8662   28.1600        5.5      -.-  1.7  -.-   YESILBELDE-MARMARIS (MUGLA)                       İlksel
+2023.10.13 01:17:39  36.3772   36.2538        8.1      -.-  1.9  -.-   ASAGIOBA-(HATAY)                                  İlksel
+2023.10.13 01:04:31  38.1140   37.4638        5.0      -.-  1.3  -.-   SUNNETKOY-ELBISTAN (KAHRAMANMARAS)                İlksel
+2023.10.13 00:57:20  38.1505   36.6950        5.3      -.-  1.3  -.-   KARAOMER-GOKSUN (KAHRAMANMARAS)                   İlksel
+2023.10.13 00:43:36  36.8747   28.1677        5.0      -.-  1.3  -.-   YESILBELDE-MARMARIS (MUGLA)                       İlksel
+2023.10.13 00:36:55  37.2635   37.0490        9.1      -.-  1.3  -.-   KARAHUYUK-PAZARCIK (KAHRAMANMARAS)                İlksel
+2023.10.13 00:31:39  40.8308   31.1078        7.9      -.-  1.3  -.-   YENITASKOPRU-(DUZCE)                              İlksel
+2023.10.13 00:15:57  38.3963   39.0743       12.9      -.-  2.0  -.-   KALABA-SIVRICE (ELAZIG)                           İlksel
+2023.10.13 00:13:45  38.3172   27.8390        5.4      -.-  1.9  -.-   KIZILCA-ODEMIS (IZMIR)                            İlksel
+2023.10.12 23:49:53  35.7922   36.1087        7.5      -.-  1.8  -.-   TURKIYE-SURIYE SINIR BOLGESI                      İlksel
+2023.10.12 22:48:52  38.5065   37.5883        1.8      -.-  1.1  -.-   AKCATOPRAK-DARENDE (MALATYA)                      İlksel
+2023.10.12 22:44:31  38.4643   37.5540        5.0      -.-  2.5  -.-   CAYBASI-DARENDE (MALATYA)                         İlksel
+2023.10.12 22:05:09  38.4617   39.2138        4.5      -.-  2.8  -.-   DEDEYOLU-SIVRICE (ELAZIG)                         İlksel
+2023.10.12 22:01:34  38.0915   36.5513       11.5      -.-  1.1  -.-   ALICLIBUCAK-GOKSUN (KAHRAMANMARAS)                İlksel
+2023.10.12 21:56:12  38.4113   39.1337        5.9      -.-  3.2  3.3   KAVAKKOY-SIVRICE (ELAZIG)                         İlksel
+2023.10.12 21:34:15  36.7000   36.0940        5.8      -.-  1.4  -.-   SARISEKI-ISKENDERUN (HATAY)                       İlksel
+2023.10.12 21:27:24  38.0927   37.8022        9.9      -.-  1.6  -.-   FINDIKKOY-DOGANSEHIR (MALATYA)                    İlksel
+2023.10.12 20:42:01  38.9260   27.8590       10.9      -.-  1.6  -.-   AKHISAR (MANISA)                                  İlksel
+2023.10.12 20:34:18  37.7522   36.3335        8.8      -.-  1.4  -.-   COKAK-ANDIRIN (KAHRAMANMARAS)                     İlksel
+2023.10.12 20:04:34  37.3633   37.1590        5.6      -.-  1.6  -.-   KADINCIK-PAZARCIK (KAHRAMANMARAS)                 İlksel
+2023.10.12 19:55:27  37.9517   36.3697        4.0      -.-  1.9  -.-   SIRMALI-GOKSUN (KAHRAMANMARAS)                    İlksel
+2023.10.12 19:48:07  37.9588   36.3980        5.1      -.-  1.6  -.-   SIRMALI-GOKSUN (KAHRAMANMARAS)                    İlksel
+2023.10.12 19:45:10  38.4747   37.5222        6.6      -.-  2.1  -.-   YENICE-DARENDE (MALATYA)                          İlksel
+2023.10.12 19:37:37  36.2205   27.0748        5.0      -.-  1.7  -.-   AKDENIZ                                           İlksel
+2023.10.12 19:32:36  38.4235   37.5785       13.0      -.-  1.6  -.-   ASAGIULUPINAR-DARENDE (MALATYA)                   İlksel
+2023.10.12 19:04:36  36.0655   36.3812        6.7      -.-  1.9  -.-   HACIPASA-ALTINOZU (HATAY)                         İlksel
+2023.10.12 18:44:01  38.4828   37.5763        5.0      -.-  2.2  -.-   BALABAN-DARENDE (MALATYA)                         İlksel
+2023.10.12 18:27:23  38.6843   28.0613        1.1      -.-  1.9  -.-   AYANLAR-GOLMARMARA (MANISA)                       İlksel
+2023.10.12 18:25:59  37.8753   27.5613       11.8      -.-  1.8  -.-   KIZILCAPINAR-GERMENCIK (AYDIN)                    İlksel
+2023.10.12 18:02:34  39.6267   37.1360        5.0      -.-  2.0  -.-   ACIPINAR-(SIVAS)                                  İlksel
+2023.10.12 16:17:35  37.2907   37.0923        8.6      -.-  1.5  -.-   ORDEKDEDE-PAZARCIK (KAHRAMANMARAS)                İlksel
+2023.10.12 16:13:30  39.6203   26.2855        6.4      -.-  1.5  -.-   AHMETLER-AYVACIK (CANAKKALE)                      İlksel
+2023.10.12 16:12:42  37.0678   28.3735       14.2      -.-  0.8  -.-   GOKOVA-ULA (MUGLA)                                İlksel
+2023.10.12 16:10:25  38.3255   38.7010       10.5      -.-  2.2  -.-   KAMISTAS-(MALATYA)                                İlksel
+2023.10.12 16:07:44  40.2863   27.4592        6.6      -.-  2.4  -.-   GUVEMALANI-BIGA (CANAKKALE)                       İlksel
+2023.10.12 15:56:54  38.1332   36.8568        8.5      -.-  2.3  -.-   KAMISCIK-GOKSUN (KAHRAMANMARAS)                   İlksel
+2023.10.12 15:46:20  37.9617   27.1508        9.0      -.-  2.0  -.-   KUSADASI KORFEZI (EGE DENIZI)                     İlksel
+2023.10.12 15:06:43  38.8255   37.5183        5.0      -.-  2.2  -.-   BAGLICAY-GURUN (SIVAS)                            İlksel
+2023.10.12 14:48:58  39.4425   29.2003        0.0      -.-  1.8  -.-   YAYLAYOLU-EMET (KUTAHYA)                          İlksel
+2023.10.12 14:35:27  38.1935   36.7160        3.0      -.-  1.8  -.-   BUYUKKIZILCIK-GOKSUN (KAHRAMANMARAS)              İlksel
+2023.10.12 14:04:03  38.8235   43.5883        5.0      -.-  4.6  4.6   AKCIFT-(VAN)                                      İlksel
+2023.10.12 12:58:49  39.6403   29.8735        0.0      -.-  1.9  -.-   DARICA-(KUTAHYA)                                  İlksel
+2023.10.12 12:47:42  39.9285   28.8688        0.0      -.-  1.7  -.-   GUMUSPINAR-ORHANELI (BURSA)                       İlksel
+2023.10.12 12:38:55  37.1337   28.1225        2.7      -.-  1.2  -.-   MEKE-(MUGLA)                                      İlksel
+2023.10.12 12:30:18  37.9997   37.2732        5.0      -.-  1.6  -.-   GOZPINAR-EKINOZU (KAHRAMANMARAS)                  İlksel
+2023.10.12 12:18:37  36.8575   36.9938        3.1      -.-  1.7  -.-   GOZLUCE-MUSABEYLI (KILIS)                         İlksel
+2023.10.12 12:15:52  37.7752   27.3797        9.3      -.-  1.3  -.-   SOKE (AYDIN)                                      İlksel
+2023.10.12 12:14:02  36.7358   36.3238       21.4      -.-  1.5  -.-   SINCAN-DORTYOL (HATAY)                            İlksel
+2023.10.12 12:11:22  37.9083   28.8117       28.2      -.-  1.2  -.-   YESILYURT-SARAYKOY (DENIZLI)                      İlksel
+2023.10.12 12:03:26  36.2352   33.7038        0.0      -.-  1.3  -.-   ISIKLI-SILIFKE (MERSIN)                           REVIZE01   (2023.10.12 12:03:26)
+2023.10.12 11:59:06  38.6152   38.3000        5.3      -.-  1.6  -.-   BOZBURUN-ARGUVAN (MALATYA)                        İlksel
+2023.10.12 11:49:25  37.1322   27.8902        5.0      -.-  1.3  -.-   BAGDAMLARI-MILAS (MUGLA)                          İlksel
+2023.10.12 11:43:26  38.7060   27.4330       25.1      -.-  1.1  -.-   TEKELLER-(MANISA)                                 İlksel
+2023.10.12 11:38:12  38.9378   44.4255        5.0      -.-  3.3  -.-   TURKIYE-IRAN SINIR BOLGESI                        REVIZE01   (2023.10.12 11:38:12)
+2023.10.12 11:28:50  38.2000   39.1330        5.0      -.-  1.8  -.-   KARAKAYA-CUNGUS (DIYARBAKIR)                      İlksel
+2023.10.12 11:26:00  36.8587   29.0548        7.0      -.-  2.3  -.-   COGMEN-DALAMAN (MUGLA)                            İlksel
+2023.10.12 11:10:12  37.3655   36.8537        8.0      -.-  1.9  -.-   TURKOGLU (KAHRAMANMARAS)                          İlksel
+2023.10.12 10:32:13  35.2645   27.7108        6.9      -.-  1.9  -.-   AKDENIZ                                           İlksel
+2023.10.12 10:31:29  38.0023   36.8807       28.9      -.-  1.3  -.-   HACIBUDAK-(KAHRAMANMARAS)                         REVIZE01   (2023.10.12 10:31:29)
+2023.10.12 10:17:31  37.4117   36.9673        5.4      -.-  1.4  -.-   NEVRUZLU-(KAHRAMANMARAS)                          İlksel
+2023.10.12 10:09:45  39.7263   39.4333        5.0      -.-  1.6  -.-   YENIKOY-(ERZINCAN)                                İlksel
+2023.10.12 09:59:13  36.3083   36.1632        5.8      -.-  1.8  -.-   KARAALI-(HATAY)                                   İlksel
+2023.10.12 09:58:53  39.1355   27.6173        6.9      -.-  1.9  -.-   SARIKAYA-SOMA (MANISA)                            İlksel
+2023.10.12 09:52:28  40.9408   31.8682        0.0      -.-  2.0  -.-   ELEMEN-MENGEN (BOLU)                              İlksel
+2023.10.12 09:45:42  37.1618   36.7848        5.0      -.-  1.7  -.-   GOZLUHUYUK-NURDAGI (GAZIANTEP)                    REVIZE01   (2023.10.12 09:45:42)
+2023.10.12 09:41:37  34.3603   23.6242        5.0      -.-  3.1  -.-   GIRIT ADASI (AKDENIZ)                             İlksel
+2023.10.12 09:37:20  36.1640   35.9492       26.3      -.-  1.9  -.-   YOGUNOLUK-SAMANDAG (HATAY)                        İlksel
+2023.10.12 09:29:35  38.5728   37.3917        2.0      -.-  1.4  -.-   GUNPINAR-DARENDE (MALATYA)                        İlksel
+2023.10.12 08:45:33  38.3795   37.4297       16.9      -.-  1.4  -.-   YALINTAS-ELBISTAN (KAHRAMANMARAS)                 İlksel
+2023.10.12 07:43:09  38.8047   44.5638        6.2      -.-  2.3  -.-   TURKIYE-IRAN SINIR BOLGESI                        İlksel
+2023.10.12 06:40:03  36.0195   35.7912        5.0      -.-  1.7  -.-   AKDENIZ                                           İlksel
+2023.10.12 06:26:35  36.8015   36.2993        6.5      -.-  1.7  -.-   KONAKLI-DORTYOL (HATAY)                           İlksel
+2023.10.12 06:12:19  39.6165   26.1980        7.3      -.-  1.7  -.-   BABADERE-AYVACIK (CANAKKALE)                      İlksel
+2023.10.12 05:54:25  35.7125   36.3450       22.2      -.-  2.3  -.-   SURIYE                                            İlksel
+2023.10.12 05:33:13  38.4363   36.6035        5.0      -.-  1.9  -.-   DALLIKAVAK-SARIZ (KAYSERI)                        İlksel
+2023.10.12 05:16:23  37.5602   37.2692        5.4      -.-  1.4  -.-   CAMLICA-PAZARCIK (KAHRAMANMARAS)                  İlksel
+2023.10.12 05:08:15  36.9640   27.1428        5.7      -.-  1.7  -.-   ONIKI ADALAR (AKDENIZ)                            İlksel
+2023.10.12 04:55:15  37.2378   36.7715        8.1      -.-  1.8  -.-   YESILYURT-TURKOGLU (KAHRAMANMARAS)                İlksel
+2023.10.12 04:53:31  38.3778   27.9963       12.1      -.-  1.5  -.-   ARTICAK-ODEMIS (IZMIR)                            İlksel
+2023.10.12 04:29:13  37.9395   36.2857       12.8      -.-  1.7  -.-   HACIKODAL-GOKSUN (KAHRAMANMARAS)                  İlksel
+2023.10.12 03:55:14  38.4038   37.4363        3.2      -.-  1.2  -.-   YALINTAS-ELBISTAN (KAHRAMANMARAS)                 İlksel
+2023.10.12 03:18:30  40.8913   31.1133       24.3      -.-  1.6  -.-   KAYMAKCI-(DUZCE)                                  İlksel
+2023.10.12 02:47:58  39.2037   33.2848        5.0      -.-  2.2  -.-   YUSUFKUYUSU-SEREFLIKOCHISAR (ANKARA)              İlksel
+2023.10.12 02:44:07  37.8555   27.3675        4.1      -.-  1.9  -.-   CINARKOY-KUSADASI (AYDIN)                         İlksel
+2023.10.12 01:29:40  37.0678   28.3498        6.6      -.-  1.7  -.-   KIZILAGAC-ULA (MUGLA)                             İlksel
+2023.10.12 01:25:16  38.1065   38.4818       11.5      -.-  1.7  -.-   KARAKOSE-SINCIK (ADIYAMAN)                        İlksel
+2023.10.12 00:51:16  37.8652   36.3328        8.5      -.-  1.7  -.-   KUCUKCAMURLU-GOKSUN (KAHRAMANMARAS)               İlksel
+2023.10.12 00:46:36  35.9373   35.8640        3.3      -.-  1.0  -.-   DENIZGOREN-YAYLADAGI (HATAY)                      İlksel
+2023.10.12 00:30:16  38.0457   36.5592        7.5      -.-  1.8  -.-   YANTEPE-GOKSUN (KAHRAMANMARAS)                    İlksel
+2023.10.12 00:12:29  36.3772   36.1848        4.3      -.-  1.3  -.-   TAHTAKOPRU-(HATAY)                                İlksel
+2023.10.11 23:59:20  37.4292   37.1568        5.1      -.-  1.9  -.-   ESKINARLI-PAZARCIK (KAHRAMANMARAS)                İlksel
+2023.10.11 23:20:05  37.8858   36.5945        8.3      -.-  1.9  -.-   TEKIR-(KAHRAMANMARAS)                             İlksel
+2023.10.11 22:17:08  38.0730   37.1785        8.1      -.-  1.7  -.-   EKINOZU (KAHRAMANMARAS)                           İlksel
+2023.10.11 21:13:18  38.1187   37.8918       10.9      -.-  1.5  -.-   YOLKURU-DOGANSEHIR (MALATYA)                      İlksel
+2023.10.11 21:07:58  37.0798   28.4307       15.8      -.-  1.2  -.-   YESILOVA-ULA (MUGLA)                              İlksel
+2023.10.11 20:25:04  38.2703   38.3082        4.1      -.-  1.8  -.-   KARAGOZ-(MALATYA)                                 İlksel
+2023.10.11 20:19:07  37.4847   37.1948        5.5      -.-  1.6  -.-   SOGUTLU-PAZARCIK (KAHRAMANMARAS)                  İlksel
+2023.10.11 19:56:48  36.8640   29.0170        3.5      -.-  3.5  3.3   KAVACIK-DALAMAN (MUGLA)                           REVIZE01   (2023.10.11 19:56:48)
+2023.10.11 19:46:36  38.1158   38.4580        5.0      -.-  2.2  -.-   AKSU-SINCIK (ADIYAMAN)                            İlksel
+2023.10.11 19:38:59  37.1270   36.9597        4.7      -.-  3.1  2.9   IKIZKUYU-NURDAGI (GAZIANTEP)                      İlksel
+2023.10.11 19:36:00  40.8350   28.2795        3.7      -.-  3.3  3.1   SILIVRI ACIKLARI-ISTANBUL (MARMARA DENIZI)        İlksel
+2023.10.11 19:16:13  38.4000   36.5220        3.0      -.-  1.6  -.-   TAVLAKOY-SARIZ (KAYSERI)                          İlksel
+2023.10.11 19:08:45  38.0772   37.4583        5.0      -.-  1.8  -.-   SUNNETKOY-ELBISTAN (KAHRAMANMARAS)                İlksel
+2023.10.11 19:07:00  38.3425   27.1953        6.4      -.-  2.9  -.-   ZAFER-BUCA (IZMIR)                                İlksel
+2023.10.11 18:43:26  38.0875   37.4160        5.0      -.-  1.8  -.-   AGCASAR-NURHAK (KAHRAMANMARAS)                    İlksel
+2023.10.11 18:39:33  39.3807   40.4513       10.8      -.-  1.9  -.-   GUZGULU-YEDISU (BINGOL)                           İlksel
+2023.10.11 18:27:59  38.2617   36.8550       10.0      -.-  1.2  -.-   BASUSTU-AFSIN (KAHRAMANMARAS)                     İlksel
+2023.10.11 16:39:19  39.9905   38.4667        9.3      -.-  2.4  -.-   DUNDAR-AKINCILAR (SIVAS)                          İlksel
+2023.10.11 16:29:14  39.4545   31.6675        0.0      -.-  1.8  -.-   KOCAS-SIVRIHISAR (ESKISEHIR)                      İlksel
+2023.10.11 16:15:14  38.3560   37.7143        9.2      -.-  2.0  -.-   BEKIRUSAGI-AKCADAG (MALATYA)                      İlksel
+2023.10.11 16:08:24  39.1160   25.8025        5.0      -.-  2.9  -.-   EGE DENIZI                                        İlksel
+2023.10.11 15:39:18  36.0822   35.6580       24.8      -.-  2.1  -.-   AKDENIZ                                           REVIZE01   (2023.10.11 15:39:18)
+2023.10.11 15:04:15  36.2293   29.6095        5.0      -.-  1.7  -.-   YENIKOY-KAS (ANTALYA)                             İlksel
+2023.10.11 15:02:04  38.3155   36.5097        9.1      -.-  1.6  -.-   DAYOLUK-SARIZ (KAYSERI)                           İlksel
+2023.10.11 14:58:22  39.3855   29.3478        0.0      -.-  1.3  -.-   KOPRUCEK-EMET (KUTAHYA)                           İlksel
+2023.10.11 14:45:27  39.2225   29.3708       13.4      -.-  1.3  -.-   KARBASAN-HISARCIK (KUTAHYA)                       İlksel
+2023.10.11 14:16:05  37.6970   35.5755       24.8      -.-  1.5  -.-   ISIKKAYA-KOZAN (ADANA)                            İlksel
+2023.10.11 13:52:20  37.0048   36.3688        9.5      -.-  1.9  -.-   YARPUZ-(OSMANIYE)                                 İlksel
+2023.10.11 13:10:48  37.7053   35.6137        2.9      -.-  1.7  -.-   MARANKECILI-KOZAN (ADANA)                         İlksel
+2023.10.11 12:57:31  39.4708   29.0563        0.0      -.-  1.5  -.-   AVCILAR-TAVSANLI (KUTAHYA)                        İlksel
+2023.10.11 12:54:39  38.2448   27.3782       11.1      -.-  1.4  -.-   SAIPLER-TORBALI (IZMIR)                           İlksel
+2023.10.11 12:39:42  38.0595   36.6295        5.0      -.-  2.6  -.-   GUCUKSU-GOKSUN (KAHRAMANMARAS)                    İlksel
+2023.10.11 12:22:24  36.1213   35.7157       21.0      -.-  1.7  -.-   AKDENIZ                                           İlksel
+2023.10.11 12:11:14  37.6805   35.3720        5.3      -.-  2.5  -.-   YETIMLI-ALADAG (ADANA)                            İlksel
