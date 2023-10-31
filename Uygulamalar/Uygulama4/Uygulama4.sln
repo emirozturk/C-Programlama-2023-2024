@@ -4,6 +4,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Uygulama4", "Uygulama4\Uygu
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UnitTests", "UnitTests\UnitTests.csproj", "{21FDFCA0-AF51-4EB0-9FE2-A83CE972B465}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PerformansAnalizi", "PerformansAnalizi\PerformansAnalizi.csproj", "{BD6491D1-015C-48CE-92AD-49D05991A785}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -18,5 +20,9 @@ Global
 		{21FDFCA0-AF51-4EB0-9FE2-A83CE972B465}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{21FDFCA0-AF51-4EB0-9FE2-A83CE972B465}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{21FDFCA0-AF51-4EB0-9FE2-A83CE972B465}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BD6491D1-015C-48CE-92AD-49D05991A785}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BD6491D1-015C-48CE-92AD-49D05991A785}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BD6491D1-015C-48CE-92AD-49D05991A785}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BD6491D1-015C-48CE-92AD-49D05991A785}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
