@@ -21,5 +21,4 @@ public class Kisi
         this.sifre = sifre;
         this.yas = yas;
     }
-
 }

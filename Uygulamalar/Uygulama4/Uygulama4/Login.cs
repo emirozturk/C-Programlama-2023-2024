@@ -18,7 +18,10 @@ public class Login
     public int CheckLogin(Kisi k)
     {
         var sonuc = kisiListesi.FirstOrDefault(x=>x.ad==k.ad && x.soyad == k.soyad);
-        if (sonuc.sifre == k.sifre) return 1;
-        else return 0;
+        if (sonuc != null && sonuc.yas >= 18 && sonuc.sifre == k.sifre)
+        {
+            return 1;
+        }
+        return 0;
     }
 }
