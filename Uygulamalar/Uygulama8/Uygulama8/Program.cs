@@ -6,7 +6,32 @@
         //5. elemandan 10. elemana kadar olanlarını alan ve bu sayıların
         //karelerini küçükten büyüğe sıralayıp bir string dizisi olarak
         //döndüren metot
-        
+        var sonuc1 = new List<int>();
+        foreach (var eleman in sayilar)
+            if(eleman>50)
+                sonuc1.Add(eleman);
+        var sonuc2 = new List<int>();
+        for(int i=4;i<10;i++)
+            sonuc2.Add(sonuc1[i]*sonuc1[i]);
+        sonuc2.Sort();
+        var dizi = new string[sonuc2.Count];
+        for (int i = 0; i < sonuc2.Count; i++)
+            dizi[i] = sonuc2[i].ToString();
+        return dizi;
+    }
+    public static string[] Metot2(List<int> sayilar)
+    {
+        //Liste içerisindeki 50den büyük sayıların
+        //5. elemandan 10. elemana kadar olanlarını alan ve bu sayıların
+        //karelerini küçükten büyüğe sıralayıp bir string dizisi olarak
+        //döndüren metot
+        sayilar.Where(x => x > 50)
+            .Skip(5)
+            .Take(5)
+            .Select(x => x * x)
+            .OrderByDescending(x => x)
+            .Select(x => x.ToString())
+            .ToArray();
     }
     public static void Main(string[] args)
     {
