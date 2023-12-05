@@ -13,7 +13,7 @@ class Program
             new() { AdSoyad = "Asya Mirzaoğlu", Boy = 127 },
         };
         var sonuc = kisiListesi
-            .Where(x=>x.AdSoyad.Contains("E"));
-        foreach(var eleman in sonuc)Console.WriteLine(eleman);
+            .Select(x => new Kisi{ AdSoyad = x.AdSoyad.ToUpper(),Boy = x.Boy});
+        foreach (var eleman in sonuc) Console.WriteLine(eleman);
     }
 }
