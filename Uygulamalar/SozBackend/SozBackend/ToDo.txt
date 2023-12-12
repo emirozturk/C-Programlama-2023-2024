@@ -1,0 +1,5 @@
+dotnet tool install --global dotnet-ef
+dotnet add package MySql.Data
+dotnet add package MySql.EntityFrameworkCore
+dotnet add package Microsoft.EntityFrameworkCore.Tools --version 7
+dotnet ef dbcontext scaffold "server=localhost;database=emirozturkDb;user=root;password=" MySql.EntityFrameworkCore -o Models -f
