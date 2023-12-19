@@ -1,12 +1,17 @@
+using SozBackend.DataAccess;
 using SozBackend.Models;
+using SozBackend.Service;
 
 var builder = WebApplication.CreateBuilder(args);
 
 // Add services to the container.
 
+builder.Services.AddScoped<IQuoteService,QuoteService>();
+builder.Services.AddScoped<IQuoteDAL, QuoteDAL>();
+builder.Services.AddScoped<IUserService,UserService>();
+builder.Services.AddScoped<IUserDAL, UserDAL>();
 builder.Services.AddDbContext<SozDbContext>();
 builder.Services.AddControllers();
-// Learn more about configuring Swagger/OpenAPI at https://aka.ms/aspnetcore/swashbuckle
 builder.Services.AddEndpointsApiExplorer();
 builder.Services.AddSwaggerGen();
 

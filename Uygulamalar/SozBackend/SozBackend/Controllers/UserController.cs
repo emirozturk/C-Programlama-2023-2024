@@ -1,6 +1,7 @@
 using Microsoft.AspNetCore.Http.HttpResults;
 using Microsoft.AspNetCore.Mvc;
 using SozBackend.Models;
+using SozBackend.Service;
 
 namespace SozBackend.Controllers;
 
@@ -8,24 +9,37 @@ namespace SozBackend.Controllers;
 [Route("[controller]")]
 public class UserController
 {
-    private SozDbContext context;
-
-    public UserController(SozDbContext context)
+    private IUserService userService;
+    public UserController(IUserService userService)
     {
-        this.context = context;
+        this.userService = userService;
     }
     [HttpPost]
-    public User AddUser(User newUser)
+    public IActionResult AddUser(User newUser)
     {
-        context.Users.Add(newUser);
-        context.SaveChanges();
-        return newUser;
+        try
+        {
+            User user = userService.AddUser(newUser);
+            return new OkObjectResult(Response<User>.Success(user));
+        }
+        catch (Exception ex)
+        {
+            return new BadRequestObjectResult(Response<List<User>>.Fail(ex.Message));
+        }
     }
 
     [HttpGet]
-    public List<User> GetUsers()
+    public IActionResult GetUsers()
     {
-        return context.Users.ToList();
+        try
+        {
+            List<User> userList = userService.GetUsers();
+            return new OkObjectResult(Response<List<User>>.Success(userList));
+        }
+        catch (Exception ex)
+        {
+            return new BadRequestObjectResult(Response<List<User>>.Fail(ex.Message));
+        }
     }
 
     [HttpGet("{username}")]
@@ -33,14 +47,39 @@ public class UserController
     {
         try
         {
-            var result = context.Users.FirstOrDefault(x => x.Username == username);
-            if (result != null)
-                return new OkObjectResult(Response<User>.Success(result));
-            return new BadRequestObjectResult(Response<User>.Fail("Kullanıcı Bulunamadı"));
+            User user = userService.GetUser(username);
+            return new OkObjectResult(Response<User>.Success(user));
         }
         catch (Exception ex)
         {
-            return new BadRequestObjectResult(ex.Message);
+            return new BadRequestObjectResult(Response<User>.Fail(ex.Message));
+        }
+    }
+
+    [HttpDelete("{username}")]
+    public IActionResult DeleteUser(string username)
+    {
+        try
+        {
+            User response = userService.DeleteUser(username);
+            return new OkObjectResult(Response<User>.Success(response));
+        }
+        catch (Exception e)
+        {
+            return new BadRequestObjectResult(Response<User>.Fail(e.Message));
+        }
+    }
+    [HttpPut("{username}")]
+    public IActionResult UpdateUser(User user,string username)
+    {
+        try
+        {
+            User updatedUser = userService.UpdateUser(username, user);
+            return new OkObjectResult(Response<User>.Success(updatedUser));
+        }
+        catch (Exception e)
+        {
+            return new BadRequestObjectResult(Response<User>.Fail(e.Message));
         }
     }
 }
