@@ -1,6 +1,7 @@
 using Microsoft.AspNetCore.Http.HttpResults;
 using Microsoft.AspNetCore.Mvc;
 using SozBackend.Models;
+using SozBackend.Models.ReturnModels;
 using SozBackend.Service;
 
 namespace SozBackend.Controllers;
@@ -20,11 +21,11 @@ public class UserController
         try
         {
             User user = userService.AddUser(newUser);
-            return new OkObjectResult(Response<User>.Success(user));
+            return new OkObjectResult(Response<RUser>.Success(new RUser(user)));
         }
         catch (Exception ex)
         {
-            return new BadRequestObjectResult(Response<List<User>>.Fail(ex.Message));
+            return new BadRequestObjectResult(Response<RUser>.Fail(ex.Message));
         }
     }
 
@@ -34,11 +35,12 @@ public class UserController
         try
         {
             List<User> userList = userService.GetUsers();
-            return new OkObjectResult(Response<List<User>>.Success(userList));
+            var ruserList = userList.Select(x => new RUser(x)).ToList();
+            return new OkObjectResult(Response<List<RUser>>.Success(ruserList));
         }
         catch (Exception ex)
         {
-            return new BadRequestObjectResult(Response<List<User>>.Fail(ex.Message));
+            return new BadRequestObjectResult(Response<List<RUser>>.Fail(ex.Message));
         }
     }
 
@@ -48,11 +50,11 @@ public class UserController
         try
         {
             User user = userService.GetUser(username);
-            return new OkObjectResult(Response<User>.Success(user));
+            return new OkObjectResult(Response<RUser>.Success(new RUser(user)));
         }
         catch (Exception ex)
         {
-            return new BadRequestObjectResult(Response<User>.Fail(ex.Message));
+            return new BadRequestObjectResult(Response<RUser>.Fail(ex.Message));
         }
     }
 
@@ -62,11 +64,11 @@ public class UserController
         try
         {
             User response = userService.DeleteUser(username);
-            return new OkObjectResult(Response<User>.Success(response));
+            return new OkObjectResult(Response<RUser>.Success(new RUser(response)));
         }
         catch (Exception e)
         {
-            return new BadRequestObjectResult(Response<User>.Fail(e.Message));
+            return new BadRequestObjectResult(Response<RUser>.Fail(e.Message));
         }
     }
     [HttpPut("{username}")]
@@ -75,11 +77,11 @@ public class UserController
         try
         {
             User updatedUser = userService.UpdateUser(username, user);
-            return new OkObjectResult(Response<User>.Success(updatedUser));
+            return new OkObjectResult(Response<RUser>.Success(new RUser(updatedUser)));
         }
         catch (Exception e)
         {
-            return new BadRequestObjectResult(Response<User>.Fail(e.Message));
+            return new BadRequestObjectResult(Response<RUser>.Fail(e.Message));
         }
     }
 }

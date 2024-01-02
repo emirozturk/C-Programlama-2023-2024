@@ -34,12 +34,14 @@ public class UserDAL:IUserDAL
     public User DeleteUser(User result)
     {
         context.Users.Remove(result);
+        context.SaveChanges();
         return result;
     }
 
     public User UpdateUser(User result)
     {
         context.Users.Update(result);
+        context.SaveChanges();
         return result;
     }
 }

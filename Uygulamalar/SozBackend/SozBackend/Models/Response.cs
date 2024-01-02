@@ -5,7 +5,6 @@ public class Response<T>
     public bool IsSuccess { get; set; }
     public T Body { get; set; }
     public string Message { get; set; }
-
     private Response(bool IsSuccess, T Body, string Message)
     {
         this.IsSuccess = IsSuccess;

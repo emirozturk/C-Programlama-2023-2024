@@ -14,8 +14,8 @@ public class QuoteController
         this.quoteService = quoteService;
     }
     
-    [HttpGet("username")]
-    IActionResult GetQuotesOfUser(string username)
+    [HttpGet("{username}")]
+    public IActionResult GetQuotesOfUser(string username)
     {
         try
         {
@@ -29,7 +29,7 @@ public class QuoteController
     }
     
     [HttpPost("{username}")]
-    IActionResult AddQuoteToUser(string username, Quote quote)
+    public IActionResult AddQuoteToUser(string username, Quote quote)
     {
         try
         {
@@ -42,7 +42,7 @@ public class QuoteController
         }
     }
     [HttpPut("{username}")]
-    IActionResult DeleteQuoteOfUser(string username, Quote quote)
+    public IActionResult DeleteQuoteOfUser(string username, Quote quote)
     {
         try
         {

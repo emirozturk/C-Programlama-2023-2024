@@ -11,7 +11,7 @@ public partial class Quote
 
     public string Content { get; set; } = null!;
 
-    public virtual ICollection<Like> Likes { get; } = new List<Like>();
+    public virtual ICollection<Like>? Likes { get; } = new List<Like>();
 
-    public virtual User User { get; set; } = null!;
+    public virtual User? User { get; set; } = null!;
 }

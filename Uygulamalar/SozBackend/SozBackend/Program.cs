@@ -1,3 +1,4 @@
+using System.Text.Json.Serialization;
 using SozBackend.DataAccess;
 using SozBackend.Models;
 using SozBackend.Service;
@@ -10,8 +11,11 @@ builder.Services.AddScoped<IQuoteService,QuoteService>();
 builder.Services.AddScoped<IQuoteDAL, QuoteDAL>();
 builder.Services.AddScoped<IUserService,UserService>();
 builder.Services.AddScoped<IUserDAL, UserDAL>();
+builder.Services.AddScoped<ILikeService, LikeService>();
+builder.Services.AddScoped<ILikeDAL, LikeDAL>();
 builder.Services.AddDbContext<SozDbContext>();
-builder.Services.AddControllers();
+builder.Services.AddControllers()
+    .AddJsonOptions(x => x.JsonSerializerOptions.ReferenceHandler = ReferenceHandler.IgnoreCycles);
 builder.Services.AddEndpointsApiExplorer();
 builder.Services.AddSwaggerGen();
 
@@ -27,7 +31,6 @@ if (app.Environment.IsDevelopment())
 app.UseHttpsRedirection();
 
 app.UseAuthorization();
-
 app.MapControllers();
 
 app.Run();
