@@ -1,3 +1,5 @@
+using System.Security.Claims;
+using Microsoft.AspNetCore.Authorization;
 using Microsoft.AspNetCore.Http.HttpResults;
 using Microsoft.AspNetCore.Mvc;
 using SozBackend.Models;
@@ -10,12 +12,18 @@ namespace SozBackend.Controllers;
 [Route("[controller]")]
 public class UserController
 {
+    //var username = httpContextAccessor.HttpContext.User.FindFirstValue(ClaimTypes.NameIdentifier)
     private IUserService userService;
-    public UserController(IUserService userService)
+    private readonly IHttpContextAccessor httpContextAccessor;
+    private readonly IConfiguration configuration;
+    public UserController(IUserService userService,IConfiguration configuration,IHttpContextAccessor httpContextAccessor)
     {
         this.userService = userService;
+        this.configuration = configuration;
+        this.httpContextAccessor = httpContextAccessor;
     }
     [HttpPost]
+    [Authorize]
     public IActionResult AddUser(User newUser)
     {
         try
@@ -30,6 +38,7 @@ public class UserController
     }
 
     [HttpGet]
+    [Authorize]
     public IActionResult GetUsers()
     {
         try
@@ -45,6 +54,7 @@ public class UserController
     }
 
     [HttpGet("{username}")]
+    [Authorize]
     public IActionResult GetUser(string username)
     {
         try
@@ -59,6 +69,7 @@ public class UserController
     }
 
     [HttpDelete("{username}")]
+    [Authorize]
     public IActionResult DeleteUser(string username)
     {
         try
@@ -72,6 +83,7 @@ public class UserController
         }
     }
     [HttpPut("{username}")]
+    [Authorize]
     public IActionResult UpdateUser(User user,string username)
     {
         try
@@ -83,5 +95,16 @@ public class UserController
         {
             return new BadRequestObjectResult(Response<RUser>.Fail(e.Message));
         }
+    }
+
+    [HttpPost("/CreateToken")]
+    public IActionResult CreateToken(User user)
+    {
+        var found = userService.GetUser(user.Username);
+        if (found == null)
+            return new BadRequestObjectResult(Response<User>.Fail("User not found."));
+        if(found.Password != user.Password)
+            return new BadRequestObjectResult(Response<User>.Fail("Wrong password."));
+        return new OkObjectResult(Security.CreateToken(user, configuration));
     }
 }
