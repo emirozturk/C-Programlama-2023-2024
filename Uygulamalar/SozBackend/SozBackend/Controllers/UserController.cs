@@ -12,7 +12,6 @@ namespace SozBackend.Controllers;
 [Route("[controller]")]
 public class UserController
 {
-    //var username = httpContextAccessor.HttpContext.User.FindFirstValue(ClaimTypes.NameIdentifier)
     private IUserService userService;
     private readonly IHttpContextAccessor httpContextAccessor;
     private readonly IConfiguration configuration;
@@ -41,6 +40,9 @@ public class UserController
     [Authorize]
     public IActionResult GetUsers()
     {
+        var username = httpContextAccessor.HttpContext.User.FindFirstValue(ClaimTypes.NameIdentifier);
+        if(username != "emirozturk")
+            return new BadRequestObjectResult(Response<List<RUser>>.Fail("Bu alana yalnızca EMİR ÖZTÜRK erişebilir."));
         try
         {
             List<User> userList = userService.GetUsers();
